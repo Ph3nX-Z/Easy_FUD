@@ -2,7 +2,7 @@
 ----------------------------
 
 
-Help to generate FUD reverse shell for ctf usage only.
+Help to generate FUD reverse shell (py or exe) for ctf usage only.
 
 ![Alt text](images/ninja.jpg)
 
