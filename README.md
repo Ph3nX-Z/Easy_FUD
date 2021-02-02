@@ -30,4 +30,6 @@ Virus total score:
 
 ## Refs
 -----------------------------------
-FuckThatPacker.py from [Inf0Sec](https://github.com/Unknow101/FuckThatPacker)
+FuckThatPacker.py from   :  [Inf0Sec](https://github.com/Unknow101/FuckThatPacker)
+Powershell Reverse shell :  [egre55](https://gist.github.com/egre55/c058744a4240af6515eb32b2d33fbed3#file-powershell_reverse_shell-ps1)
+All the other files      :  [me](https://github.com/Ph3nX-Z)
