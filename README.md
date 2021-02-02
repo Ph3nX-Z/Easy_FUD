@@ -30,4 +30,4 @@ Virus total score:
 
 ## Refs
 -----------------------------------
-[Inf0Sec](https://github.com/Unknow101/FuckThatPacker)
+FuckThatPacker.py from [Inf0Sec](https://github.com/Unknow101/FuckThatPacker)
